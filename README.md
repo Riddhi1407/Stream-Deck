@@ -1,5 +1,6 @@
 # Stream-Deck
 ***
+<img width="1328" height="939" alt="Assembly " src="https://github.com/user-attachments/assets/a1ae5243-c3f0-4f6b-9350-b569453f08a9" />
 
 This is a Multifunction Programmable deck with 8 keys programmable graphical keypad, a4.3 inch multifunctional tft lcd screen with touch and 2 programmable rotary knobs with switches. It has user customizable haptic feedback, that can be customized on the deviceitself. The deck has Bluetooth and Wi-Fi connectivity options and can be used wirelessly tocontrol connected peripherals. It also has a Lithium-Polymer battery with Type-C charging forwireless use that provides a battery life of xx hour.
 
