@@ -53,3 +53,33 @@ The deck has a xxxx mAh Lithium-Polymer battery that can power the device for xx
 
 
 ### CASE 3D CAD
+
+**Assembly**
+<img width="1328" height="939" alt="Assembly " src="https://github.com/user-attachments/assets/180eb217-44cd-4cbc-826b-55390befbdaa" />
+
+**Assembly Top**
+<img width="1309" height="1066" alt="Assembly Top" src="https://github.com/user-attachments/assets/299b274f-4c38-4360-bf47-fd5c73db7155" />
+
+**Case Top**
+<img width="1589" height="1080" alt="Case Front" src="https://github.com/user-attachments/assets/20c40116-7156-442f-b0e8-dd682624a695" />
+
+**Case Bottom**
+<img width="1584" height="1080" alt="Case Bottom" src="https://github.com/user-attachments/assets/a38f7ef2-87bc-4964-ac6a-3858b36fdecf" />
+
+**Display 1** 
+<img width="1587" height="1080" alt="Display 1" src="https://github.com/user-attachments/assets/d681e0e6-e20d-40f8-a485-88b6bb1c56e9" />
+
+**Display 2**
+<img width="1590" height="1080" alt="Display 2" src="https://github.com/user-attachments/assets/0a6e7a27-2b8f-448c-ac9c-3ae97a643441" />
+
+**Keycap** 
+<img width="1587" height="1080" alt="Keycap" src="https://github.com/user-attachments/assets/bbe241cd-0e79-4b3e-9a58-9cf6b0ba0206" />
+
+**Rubber Membrane**
+<img width="1584" height="1080" alt="Rubber Sheet" src="https://github.com/user-attachments/assets/2bccf397-a1f9-4131-9555-8058c01c80f9" />
+
+**Spacer**
+<img width="1591" height="1080" alt="Spacer Sheet" src="https://github.com/user-attachments/assets/72315c83-4990-4e10-9944-f3b9d5936f37" />
+
+**Knob**
+<img width="1595" height="1080" alt="Knob Cap" src="https://github.com/user-attachments/assets/96659a06-d126-417e-9642-ada74c06de0c" />
