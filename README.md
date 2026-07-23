@@ -2,7 +2,7 @@
 ***
 <img width="1328" height="939" alt="Assembly " src="https://github.com/user-attachments/assets/a1ae5243-c3f0-4f6b-9350-b569453f08a9" />
 
-This is a Multifunction Programmable deck with 8 keys programmable graphical keypad, a4.3 inch multifunctional tft lcd screen with touch and 2 programmable rotary knobs with switches. It has user customizable haptic feedback, that can be customized on the deviceitself. The deck has Bluetooth and Wi-Fi connectivity options and can be used wirelessly tocontrol connected peripherals. It also has a Lithium-Polymer battery with Type-C charging forwireless use that provides a battery life of xx hour.
+This is a Multifunction Programmable deck with 8 keys programmable graphical keypad, a 4.3 inch multifunctional tft lcd screen with touch and 2 programmable rotary knobs with switches. It has user customizable haptic feedback, that can be customized on the deviceitself. The deck has Bluetooth and Wi-Fi connectivity options and can be used wirelessly tocontrol connected peripherals. It also has a Lithium-Polymer battery with Type-C charging forwireless use that provides a battery life of 10 hour.
 
 **Features:**
 -8 keys Programmable Graphical Keypad
@@ -11,7 +11,7 @@ This is a Multifunction Programmable deck with 8 keys programmable graphical key
 -Haptic Feedback
 -Bluetooth 5.3 and Wi-Fi
 -Type-C Charging
--xx Hour Battery Life
+-10 Hour Battery Life
 
 ### Keypad  
 The 8 key graphical keypad can show the graphics on the keys. Keys of the keypad becustomized using the onboard tft lcd to show diferent graphics. The functions of the keyscan also be set or changed using the deck itself or other device. Keypad customizations canbe saved as modes and can be reused as presets.
@@ -29,7 +29,7 @@ The deck has haptic feedback feature for key presses, touch interactions with th
 The deck has Bluetooth 5.3 and Wi-Fi wireless connectivity options to control the connectedperipherals and the deck using other device. The deck van also br connected through USBType-C for controlling the connected peripherals or device and it can also be used to controlor program the deck.
 
 ### Power
-The deck has a xxxx mAh Lithium-Polymer battery that can power the device for xx hour inwireless mode and not connected to power. It can be charged by USB Type-C. The deck canalso be powered by USB Type-C.
+The deck has a 10000 mAh Lithium-Polymer battery that can power the device for 10 hour inwireless mode and not connected to power. It can be charged by USB Type-C. The deck canalso be powered by USB Type-C.
 
 ### Schematic
 **Main Schematic**
